@@ -5,3 +5,8 @@
  Screenshot of the interface is included.
  
  <img src="/calculator_screenshot.png" alt="Demo 1" width="40%"/>
+
+
+  Hope you enjoy the app.
+  
+### Thank you
