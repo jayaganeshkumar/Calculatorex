@@ -4,7 +4,7 @@
  
  Screenshot of the interface is included.
  
- <img src="/calculator_screenshot.png" alt="Demo 1" width="40%"/>
+ <img src="/calculator_screenshot.png" alt="Demo 1" width="30%"/>
 
 
   Hope you enjoy the app.
